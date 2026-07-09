@@ -30,7 +30,7 @@ url: "https://animaegawa.github.io" # the base hostname & protocol for your site
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-include-cache
-#  - jekyll-feed
+  - jekyll-feed
 
 minimal_mistakes_skin: "dark"
 locale: "ja"
