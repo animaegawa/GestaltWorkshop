@@ -1,0 +1,5 @@
+main:
+  - title: "プログラム"
+    url: "assets/program.pdf"
+  - title: "ノート"
+    url: "notes"
