@@ -10,7 +10,7 @@ layout: splash
 \\[\varprojlim_{\Omega} \o{CAlg}(n\r{Pr})\\]
 
 ## 概要
-Scholze--Stefanichによる**Gestalt**（**形象**）論に関するラーニングセミナー，および連続講義．
+Scholze--Stefanichによる**Gestalt**（**型象**）論に関するラーニングセミナー，および連続講義．
 
 * **日程:** 2026年9月24日 (木) -- 9月30日 (水)
 * **会場:** 慶應大学矢上キャンパス
