@@ -25,6 +25,7 @@ url: "https://animaegawa.github.io" # the base hostname & protocol for your site
 baseurl: "/GestaltWorkshop"
 #twitter_username: jekyllrb
 #github_username:  jekyll
+copyright_url: "https://animaegawa.github.io/GestaltWorkshop"
 
 # Build settings
 theme: minimal-mistakes-jekyll
