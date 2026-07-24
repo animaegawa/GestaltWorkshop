@@ -6,7 +6,6 @@ layout: splash
 ---
 
 
-\\[n\r{Pr}\in n\r{Pr}\\]
 \\[\varprojlim_{\Omega} \o{CAlg}(n\r{Pr})\\]
 
 ## 概要
