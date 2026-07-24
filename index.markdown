@@ -5,7 +5,7 @@
 layout: splash
 ---
 
-
+\\(\mbox{}\\)
 \\[\varprojlim_{\Omega} \o{CAlg}(n\r{Pr})\\]
 
 ## 概要
