@@ -57,4 +57,4 @@ Scholze--Stefanichによる**Gestalt**（**型象**）論に関するラーニ�
 
 ## 主催
 
-* [理化学研究所](https://aip.riken.jp/events/)
+* [理化学研究所](https://ithems.riken.jp/ja/events/workshop-on-gestalt)
