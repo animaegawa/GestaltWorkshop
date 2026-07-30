@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: splash
 ---
 
@@ -23,7 +20,7 @@ Scholze--Stefanichによる**Gestalt**（**型象**）論に関するラーニ�
 
 | 日程 | 時間 | 講演者 (敬称略) | 内容 |
 | :---: | :---: | :---: | :--- |
-| **9月24日 (木)** | 10:00 -- 11:00 | 青木 | Overview |
+| **9月24日 (木)** | 10:00 -- 11:00 | 青木 | Overview of Gestalten |
 | | 11:15 -- 12:15 | TBD | $$\r{Pr}^\kappa\in\o{CAlg}(\r{Pr}^\kappa)$$ |
 | | 13:30 -- 15:00 | TBD | Stefanich ring |
 | | 15:30 -- 16:30 | TBD | Dualizable category |
