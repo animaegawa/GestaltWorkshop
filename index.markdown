@@ -31,10 +31,10 @@ Scholze--Stefanichによる**Gestalt**（**型象**）論に関するラーニ�
 | | 13:00 -- 14:30 | TBD | Descendable |
 | | 15:00 -- 16:30 | TBD | Example |
 | **9月29日 (火)** | 10:00 -- 12:00 | TBD | Cartier duality |
-| | 13:30 -- 14:30 | 青木 | 講演1 (TBA, I) |
-| | 15:00 -- 16:00 | 青木 | 講演2 (TBA, II) |
-| **9月30日 (水)** | 10:00 -- 11:30 | 青木 | 講演3 (Gestalten and 2-motives, I) |
-| | 13:00 -- 14:30 | 青木 | 講演4 (Gestalten and 2-motives, II) |
+| | 13:30 -- 14:30 | 青木 | (TBA, I) |
+| | 15:00 -- 16:00 | 青木 | (TBA, II) |
+| **9月30日 (水)** | 10:00 -- 11:30 | 青木 | Gestalten and 2-motives, I |
+| | 13:00 -- 14:30 | 青木 | Gestalten and 2-motives, II |
 | | 15:00 -- 17:00 |  | 自由討論・閉会 |
 
 
