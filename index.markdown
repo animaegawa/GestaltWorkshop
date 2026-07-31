@@ -20,21 +20,21 @@ Scholze--Stefanichによる**Gestalt**（**型象**）論に関するラーニ�
 
 | 日程 | 時間 | 講演者 (敬称略) | 内容 |
 | :---: | :---: | :---: | :--- |
-| **9月24日 (木)** | 10:00 -- 11:00 | 青木 | Overview of Gestalten |
-| | 11:15 -- 12:15 | TBD | $$\r{Pr}^\kappa\in\o{CAlg}(\r{Pr}^\kappa)$$ |
-| | 13:30 -- 15:00 | TBD | Stefanich ring |
-| | 15:30 -- 16:30 | TBD | Dualizable category |
-| **9月25日 (金)** | 10:00 -- 11:30 | TBD | $$n\r{QCoh}$$, I |
-| | 11:45 -- 13:15 | TBD | $$n\r{QCoh}$$, II |
-| | 15:30 -- 18:00 | 三神 | Affine, prim and suave |
-| **9月28日 (月)** | 10:00 -- 11:30 | 前川 | Gestalt |
-| | 13:00 -- 14:30 | TBD | Descendable |
-| | 15:00 -- 16:30 | TBD | Example |
-| **9月29日 (火)** | 10:00 -- 12:00 | TBD | Cartier duality |
-| | 13:30 -- 14:30 | 青木 | (TBA, I) |
-| | 15:00 -- 16:00 | 青木 | (TBA, II) |
-| **9月30日 (水)** | 10:00 -- 11:30 | 青木 | Gestalten and 2-motives, I |
-| | 13:00 -- 14:30 | 青木 | Gestalten and 2-motives, II |
+| **9月24日 (木)** | 10:00 -- 11:00 | 青木孔 | Overview of Gestalten |
+| | 11:15 -- 12:15 | 鈴木瞭 | $$\r{Pr}^\kappa\in\o{CAlg}(\r{Pr}^\kappa)$$ |
+| | 13:30 -- 15:00 | 髙谷悠太 | Stefanich ring |
+| | 15:30 -- 16:30 | 中村太河 | Dualizable category |
+| **9月25日 (金)** | 10:00 -- 11:30 | 鈴木唯乃 | $$n\r{QCoh}$$, I |
+| | 11:45 -- 13:15 | 島田要歌 | $$n\r{QCoh}$$, II |
+| | 15:30 -- 18:00 | 三神雄太郎 | Affine, prim and suave |
+| **9月28日 (月)** | 10:00 -- 11:30 | 前川拓海 | Gestalt |
+| | 13:00 -- 14:30 | 石塚伶 | Descendable |
+| | 15:00 -- 16:30 | 宮﨑弘安 | Example |
+| **9月29日 (火)** | 10:00 -- 12:00 | 松本晃二郎 | Cartier duality |
+| | 13:30 -- 14:30 | 青木孔 | (TBA, I) |
+| | 15:00 -- 16:00 | 青木孔 | (TBA, II) |
+| **9月30日 (水)** | 10:00 -- 11:30 | 青木孔 | Gestalten and 2-motives, I |
+| | 13:00 -- 14:30 | 青木孔 | Gestalten and 2-motives, II |
 | | 15:00 -- 17:00 |  | 自由討論・閉会 |
 
 
