@@ -22,18 +22,28 @@ Scholze--Stefanichによる**Gestalt**（**型象**）論に関するラーニ�
 | :---: | :---: | :---: | :--- |
 | **9月24日 (木)** | 10:00 -- 11:00 | 青木孔 | Overview of Gestalten |
 | | 11:15 -- 12:15 | 鈴木瞭 | $$\r{Pr}^\kappa\in\o{CAlg}(\r{Pr}^\kappa)$$ |
+| | 12:15 -- 13:30 | (Lunch break) | |
 | | 13:30 -- 15:00 | 髙谷悠太 | Stefanich ring |
+| | 15:00 -- 15:30 | (Coffee break) | |
 | | 15:30 -- 16:30 | 中村太河 | Dualizable category |
 | **9月25日 (金)** | 10:00 -- 11:30 | 鈴木唯乃 | $$n\r{QCoh}$$, I |
 | | 11:45 -- 13:15 | 島田要歌 | $$n\r{QCoh}$$, II |
-| | 15:30 -- 18:00 | 三神雄太郎 | Affine, prim and suave |
+| | 13:15 -- 14:30 | (Lunch break) | |
+| | 14:30 -- 15:45 | 三神雄太郎 | Affine, prim and suave, I |
+| | 15:45 -- 16:00 | (Coffee break) | |
+| | 16:30 -- 17:30 | 三神雄太郎 | Affine, prim and suave, II |
 | **9月28日 (月)** | 10:00 -- 11:30 | 前川拓海 | Gestalt |
+| | 11:30 -- 13:00 | (Lunch break) | |
 | | 13:00 -- 14:30 | 石塚伶 | Descendable |
+| | 14:30 -- 15:00 | (Coffee break) | |
 | | 15:00 -- 16:30 | 宮﨑弘安 | Example |
 | **9月29日 (火)** | 10:00 -- 12:00 | 松本晃二郎 | Cartier duality |
+| | 12:00 -- 13:30 | (Lunch break) | |
 | | 13:30 -- 14:30 | 青木孔 | (TBA, I) |
+| | 14:30 -- 15:00 | (Coffee break) | |
 | | 15:00 -- 16:00 | 青木孔 | (TBA, II) |
 | **9月30日 (水)** | 10:00 -- 11:30 | 青木孔 | Gestalten and 2-motives, I |
+| | 11:30 -- 13:00 | (Lunch break) | |
 | | 13:00 -- 14:30 | 青木孔 | Gestalten and 2-motives, II |
 | | 15:00 -- 17:00 |  | 自由討論・閉会 |
 
