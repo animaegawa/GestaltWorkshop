@@ -34,7 +34,7 @@ Scholze--Stefanichによる**Gestalt**（**型象**）論に関するラーニ�
 | | 16:30 -- 17:30 | 三神雄太郎 | Affine, prim and suave, II |
 | **9月28日 (月)** | 10:00 -- 11:30 | 前川拓海 | Gestalt |
 | | 11:30 -- 13:00 | (Lunch break) | |
-| | 13:00 -- 14:30 | 石塚伶 | Descendable |
+| | 13:00 -- 14:30 | 石塚伶 | Descendable map |
 | | 14:30 -- 15:00 | (Coffee break) | |
 | | 15:00 -- 16:30 | 宮﨑弘安 | Example |
 | **9月29日 (火)** | 10:00 -- 12:00 | 松本晃二郎 | Cartier duality |
