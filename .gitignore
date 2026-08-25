@@ -12,3 +12,5 @@ vendor
 *.synctex.gz
 *.dvi
 *.pdf
+
+*ignore.pdf
