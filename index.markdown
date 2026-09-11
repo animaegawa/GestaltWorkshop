@@ -39,9 +39,9 @@ Scholze--Stefanichによる**Gestalt**（**型象**）論に関するラーニ�
 | | 15:00 -- 16:30 | 宮﨑弘安 | Example |
 | **9月29日 (火)** | 10:00 -- 12:00 | 松本晃二郎 | Cartier duality |
 | | 12:00 -- 13:30 | (Lunch break) | |
-| | 13:30 -- 14:30 | 青木孔 | (TBA, I) |
+| | 13:30 -- 14:30 | 青木孔 | Advanced topics of Gestalten, I |
 | | 14:30 -- 15:00 | (Coffee break) | |
-| | 15:00 -- 16:00 | 青木孔 | (TBA, II) |
+| | 15:00 -- 16:00 | 青木孔 | Advanced topics of Gestalten, II |
 | **9月30日 (水)** | 10:00 -- 11:30 | 青木孔 | Gestalten and 2-motives, I |
 | | 11:30 -- 13:00 | (Lunch break) | |
 | | 13:00 -- 14:30 | 青木孔 | Gestalten and 2-motives, II |
