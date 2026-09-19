@@ -30,8 +30,8 @@ Scholze--Stefanichによる**Gestalt**（**型象**）論に関するラーニ�
 | | 11:45 -- 13:15 | 島田要歌 | $$n\r{QCoh}$$, II |
 | | 13:15 -- 14:30 | (Lunch break) | |
 | | 14:30 -- 15:45 | 三神雄太郎 | Affine, prim and suave, I |
-| | 15:45 -- 16:00 | (Coffee break) | |
-| | 16:30 -- 17:30 | 三神雄太郎 | Affine, prim and suave, II |
+| | 15:45 -- 16:15 | (Coffee break) | |
+| | 16:15 -- 17:15 | 三神雄太郎 | Affine, prim and suave, II |
 | **9月28日 (月)** | 10:00 -- 11:30 | 前川拓海 | Gestalt |
 | | 11:30 -- 13:00 | (Lunch break) | |
 | | 13:00 -- 14:30 | 石塚伶 | Descendable map |
@@ -41,7 +41,7 @@ Scholze--Stefanichによる**Gestalt**（**型象**）論に関するラーニ�
 | | 12:00 -- 13:30 | (Lunch break) | |
 | | 13:30 -- 14:30 | 青木孔 | Advanced topics of Gestalten, I |
 | | 14:30 -- 15:00 | (Coffee break) | |
-| | 15:00 -- 16:00 | 青木孔 | Advanced topics of Gestalten, II |
+| | 15:00 -- 16:30 | 青木孔 | Advanced topics of Gestalten, II |
 | **9月30日 (水)** | 10:00 -- 11:30 | 青木孔 | Gestalten and 2-motives, I |
 | | 11:30 -- 13:00 | (Lunch break) | |
 | | 13:00 -- 14:30 | 青木孔 | Gestalten and 2-motives, II |
