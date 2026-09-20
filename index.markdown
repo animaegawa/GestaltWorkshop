@@ -21,7 +21,7 @@ Scholze--Stefanichによる**Gestalt**（**型象**）論に関するラーニ�
 | 日程 | 時間 | 講演者 (敬称略) | 内容 |
 | :---: | :---: | :---: | :--- |
 | **9月24日 (木)** | 10:00 -- 11:00 | 青木孔 | Overview of Gestalten |
-| | 11:15 -- 12:15 | 鈴木瞭 | $$\r{Pr}^\kappa\in\o{CAlg}(\r{Pr}^\kappa)$$ |
+| | 11:15 -- 12:15 | TBD | $$\r{Pr}^\kappa\in\o{CAlg}(\r{Pr}^\kappa)$$ |
 | | 12:15 -- 13:30 | (Lunch break) | |
 | | 13:30 -- 15:00 | 髙谷悠太 | Stefanich ring |
 | | 15:00 -- 15:30 | (Coffee break) | |
@@ -37,7 +37,7 @@ Scholze--Stefanichによる**Gestalt**（**型象**）論に関するラーニ�
 | | 13:00 -- 14:30 | 石塚伶 | Descendable map |
 | | 14:30 -- 15:00 | (Coffee break) | |
 | | 15:00 -- 16:30 | 宮﨑弘安 | Example |
-| **9月29日 (火)** | 10:00 -- 12:00 | 松本晃二郎 | Cartier duality |
+| **9月29日 (火)** | 10:00 -- 12:00 | TBD | Cartier duality |
 | | 12:00 -- 13:30 | (Lunch break) | |
 | | 13:30 -- 14:30 | 青木孔 | Advanced topics of Gestalten, I |
 | | 14:30 -- 15:00 | (Coffee break) | |
@@ -51,6 +51,10 @@ Scholze--Stefanichによる**Gestalt**（**型象**）論に関するラーニ�
 ## プログラム
 
 * [PDF](assets/program.pdf)
+
+## お問い合わせ
+
+* [公式ページ](https://ithems.riken.jp/ja/events/workshop-on-gestalt)
 
 ## 参考文献
 
@@ -67,4 +71,4 @@ Scholze--Stefanichによる**Gestalt**（**型象**）論に関するラーニ�
 
 ## 主催
 
-* [理化学研究所](https://ithems.riken.jp/ja/events/workshop-on-gestalt)
+* [理化学研究所](https://ithems.riken.jp/en/events/workshop-on-gestalt)
