@@ -55,6 +55,7 @@ Scholze--Stefanichによる**Gestalt**（**型象**）論に関するラーニ�
 ## お問い合わせ
 
 * [公式ページ](https://ithems.riken.jp/ja/events/workshop-on-gestalt)
+* 9/24追記：Zoom配信もあります．詳細はお問い合わせください．
 
 ## 参考文献
 
